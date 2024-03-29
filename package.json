@@ -13,11 +13,11 @@
     "body-parser": "latest",
     "csrf": "^3.1.0",
     "dotenv": "latest",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "express-handlebars": "latest",
     "express-session": "^1.17.3",
     "json2csv": "^6.0.0-alpha.2",
-    "node-quickbooks": "^2.0.43",
+    "node-quickbooks": "^2.0.45",
     "query-string": "^8.1.0",
     "request": "^2.88.2"
   }
